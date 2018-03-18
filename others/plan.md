@@ -6,3 +6,8 @@
 1. 学习CNN的几种架构，参考pytorch-cifar：https://github.com/kuangliu/pytorch-cifar/tree/master/models
 2. 特别是paper + code
 3. efficient densenet pytorch: https://github.com/gpleiss/efficient_densenet_pytorch
+# 2018-03-09
+1. 学习attention机制及其应用
+2. 继续学习强化学习
+3. 寻找QuestionAnswering领域相关论文
+4. 标注NER数据
