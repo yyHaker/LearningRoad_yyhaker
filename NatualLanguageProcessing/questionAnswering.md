@@ -4,8 +4,14 @@
 # 机器阅读理解
 [1] [PaperWeekly 第38期 | SQuAD综述(知乎文章)](https://zhuanlan.zhihu.com/p/27015318)
 
-[2] [MACHINE COMPREHENSION USING MATCH-LSTM
-AND ANSWER POINTER](https://arxiv.org/pdf/1608.07905.pdf) [论文阅读推荐](https://zhuanlan.zhihu.com/p/22577648?refer=paperweekly)
+[2] [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](https://arxiv.org/pdf/1608.07905.pdf)
+ 
+ [论文阅读推荐](https://zhuanlan.zhihu.com/p/22577648?refer=paperweekly)
+ 
+ 
+[《MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER》阅读笔记(很详细)](https://zhuanlan.zhihu.com/p/23459263)
+
+[论文源码(使用torch7)](https://github.com/shuohangwang/SeqMatchSeq)
 
 [3] [Bidirectional Attention Flow for Machine Comprehension](https://arxiv.org/pdf/1611.01603.pdf) 
 
