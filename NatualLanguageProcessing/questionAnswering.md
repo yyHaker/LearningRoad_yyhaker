@@ -1,8 +1,10 @@
-#Question Answering Resource
+# Question Answering Resource
 
 [1][awesome-question-answering github上的问答相关资源](https://github.com/dapurv5/awesome-question-answering) 
 
-# 机器阅读理解
+
+
+## 机器阅读理解
 [1] [PaperWeekly 第38期 | SQuAD综述(知乎文章)](https://zhuanlan.zhihu.com/p/27015318)
 
 [2] [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](https://arxiv.org/pdf/1608.07905.pdf)
