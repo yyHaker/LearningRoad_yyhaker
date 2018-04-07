@@ -1,11 +1,13 @@
 # DeepLearning
 
-## models
+## several models
 
-###Multi-layer Perceptrons
+### Multi-layer Perceptrons
+
 [1][神经网络和深度学习-学习总结(简单介绍了感知机)](https://blog.csdn.net/myarrow/article/details/51322433)
 
-###Convolutional Neural Networks
+### Convolutional Neural Networks
+
 [1] [贺完结！CS231n官方笔记授权翻译总集篇发布(包含cnn的笔记讲解)](https://zhuanlan.zhihu.com/p/21930884)
 
 
