@@ -11,7 +11,10 @@
 [1] [贺完结！CS231n官方笔记授权翻译总集篇发布(包含cnn的笔记讲解)](https://zhuanlan.zhihu.com/p/21930884)
 
 
-###Recurrent Neural Networks 
+
+
+### Recurrent Neural Networks 
+
 [1] cs231n课程讲解http://cs231n.stanford.edu/syllabus.html
 
 [2]  Recurrent Neural Networks intruduction(Theano)http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
