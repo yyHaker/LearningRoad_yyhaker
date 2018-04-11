@@ -19,6 +19,8 @@
 
 [《Bi-Directional Attention Flow For Machine Comprehension(2017 ICLR)》paper阅读笔记](https://zhuanlan.zhihu.com/p/35260231)
 
+[github上的一个dcn的一个实现,可以参考](https://github.com/andrejonasson/dynamic-coattention-network-plus)
+
 [4] [Dynamic Coattention Networks For Question Answering](https://arxiv.org/pdf/1611.01604v1.pdf)
 
 [机器阅读理解与问答·Dynamic Co-Attention Networks(很清晰的论文阅读笔记)](https://www.zhihu.com/search?type=content&q=Dynamic%20Coattention%20Networks%20For%20Question%20Answering)
